@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Globant ✨<br>📖 I'm studying Systems Engineering<br>😋 I'm already an Analyst!<br>🌱 I want to be a great FullStack Dev!<br>🐣 I'm 20 Years Old 🐥 <br> 🗺️ I was born in Argentina, World Cup winners 🏆🏆🏆
+🔭 I'm currently working on Globant ✨<br>📖 I'm studying Systems Engineering<br>😋 I'm already an Analyst!<br>🌱 I want to be a great FullStack Dev!<br>🐣 I'm 21 Years Old 🐥 <br> 🗺️ I was born in Argentina, World Cup winners 🏆🏆🏆
 
 
 ## 🌐 Socials:
